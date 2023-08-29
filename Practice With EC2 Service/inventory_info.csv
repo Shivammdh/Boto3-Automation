@@ -1,0 +1,3 @@
+S_NO,Instance_Id,Instance_Type,Architecture,LaunchTime,Privat_Ip
+1,i-0b574a8e0a0f4236c,t2.micro,x86_64,2022-11-02,172.31.82.216
+2,i-092a5e79f4523d24c,t2.micro,x86_64,2022-11-02,172.31.81.4
